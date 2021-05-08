@@ -1211,5 +1211,5 @@ PRODUCT_PACKAGES += \
     QPerformance \
     UxPerformance \
     HotwordEnrollmentOKGoogleHEXAGON \
-    HotwordEnrollmentXGoogleHEXAGON
-
+    HotwordEnrollmentXGoogleHEXAGON \
+    NxpNfcNci
